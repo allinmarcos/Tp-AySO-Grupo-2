@@ -1,0 +1,19 @@
+### Changelog ###
+
+[04-07-2022]
+- Deleted namespace.yml
+- Changed namespace in deployment.yml to be "tp-ayso-grupo-2"
+- Changed port in the deplotment.yml to 80
+- Added changelog.txt
+- Added ignore .txt files in the .dockerignore and .gitignore files
+
+[04-07-2022]
+- Deleted nginxG2.yml since it was no longer used
+- Added namespace to the deployment
+- Fixed the image in the deployment (Dockerfile -> allinmarcos/tp-ayso-grupo-2:v1)
+- Added CMD to the Dockerfile image
+- Added ignore .md files in the .dockerignore and .gitignore files
+- Enhanced README.md
+
+[09-06-2022]
+- Added all the final project files
