@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: tp-ayso-grupo-2
-        image: Dockerfile
+        image: allinmarcos/tp-ayso-grupo-2
         ports:
-        - containerPort: 8080
+        - containerPort: 80
