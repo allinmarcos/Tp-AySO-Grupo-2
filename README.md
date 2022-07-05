@@ -6,6 +6,12 @@
 - deployment.yml: Creates a deployment with one replica uploading the Dockerfile image from our Docker Hub repository. It also uses the namespace.yml
 - index.html: creates a h1 with the following text: "Hola Mundo, somos el grupo 2 de la UTN" 
 
+## Usage
+Run the deployment.yml in the linux terminal.
+```bash
+kubectl apply -f ./deployment.yml
+```
+
 ## Contributors
 - [Máximo Pepa](https://github.com/MaxiPepa)
 - [Marcos Allín](https://github.com/allinmarcos)
