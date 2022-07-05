@@ -7,10 +7,10 @@
 - index.html: creates a h1 with the following text: "Hola Mundo, somos el grupo 2 de la UTN" 
 
 ## Contributors
-[Máximo Pepa](https://github.com/MaxiPepa)
-[Marcos Allín](https://github.com/allinmarcos)
-[David Medina](https://github.com/odavidmedina)
-[Santiago Fiore](https://github.com/Fioresantiago)
+- [Máximo Pepa](https://github.com/MaxiPepa)
+- [Marcos Allín](https://github.com/allinmarcos)
+- [David Medina](https://github.com/odavidmedina)
+- [Santiago Fiore](https://github.com/Fioresantiago)
 
 
 - Considerations: We did what we could with the knowledge that we have and searched on the internet. It's not the best but at least we tried to make something that works. Hopefully we will improve it any time soon.
