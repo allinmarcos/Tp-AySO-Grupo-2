@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: tp-ayso-grupo-2
-        image: allinmarcos/tp-ayso-grupo-2
+        image: allinmarcos/tp-ayso-grupo-2:v1
         ports:
         - containerPort: 80
