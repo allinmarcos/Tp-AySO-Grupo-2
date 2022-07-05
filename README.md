@@ -19,5 +19,5 @@ kubectl apply -f ./deployment.yml
 - [Santiago Fiore](https://github.com/Fioresantiago)
 
 
-##Considerations
+## Considerations
 We did what we could with the knowledge that we have and searched on the internet. It's not the best but at least we tried to make something that works. Hopefully we will improve it any time soon.
