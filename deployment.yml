@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: tp-ayso-grupo-2-deployment
+  namespace: ./namespace.yml
   labels:
     app: nginx
 spec:
