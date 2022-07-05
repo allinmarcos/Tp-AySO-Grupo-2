@@ -1,6 +1,6 @@
 ### Changelog ###
 
-[04-07-2022]
+[05-07-2022]
 - Deleted namespace.yml
 - Changed namespace in deployment.yml to be "tp-ayso-grupo-2"
 - Changed port in the deplotment.yml to 80
