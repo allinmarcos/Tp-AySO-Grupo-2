@@ -7,7 +7,8 @@
 - index.html: creates a h1 with the following text: "Hola Mundo, somos el grupo 2 de la UTN" 
 
 ## Usage
-Run the deployment.yml in the linux terminal.
+1. Open the terminal in the folder that you have the repository files.
+2. Run the deployment.yml in the linux terminal using this command.
 ```bash
 kubectl apply -f ./deployment.yml
 ```
@@ -17,7 +18,3 @@ kubectl apply -f ./deployment.yml
 - [Marcos Allín](https://github.com/allinmarcos)
 - [David Medina](https://github.com/odavidmedina)
 - [Santiago Fiore](https://github.com/Fioresantiago)
-
-
-## Considerations
-We did what we could with the knowledge that we have and searched on the internet. It's not the best but at least we tried to make something that works. Hopefully we will improve it any time soon.
